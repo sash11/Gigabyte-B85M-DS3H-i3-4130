@@ -16,3 +16,6 @@
 | Lan |  Realtek 1GbE LAN. |
 | OS Disk | 128GB Samsung 850 Pro SATA |
 | macOS | Big Sur 11.6/OpenCore 0.7.4 |
+
+## USB
+I have made a custom USB-B85M-DS3H.kext that should be used together with XhciPortLimit kernel quirk. All ports are working
